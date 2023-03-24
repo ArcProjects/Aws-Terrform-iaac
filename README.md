@@ -19,7 +19,7 @@ After setting up my enviroment, i created all the files needed to create all the
 
 The files contains reference templates that has notes which explains what each syntax in the file does, See Screenshots below of the Vscode project files and the corresponding resourses created in AWS.
 
-[1.Authenticating with AWS with a "main.tf" file](###Authenticating-with-AWS-with-a-"main.tf"-file)
+[1.Authenticating with AWS with a "main.tf" file](###Authenticating with AWS with a "main.tf" file)
 
 [2.Create VPC with a vpc.tf filer](#Create-VPC-with-a-vpc.tf-file)
 
