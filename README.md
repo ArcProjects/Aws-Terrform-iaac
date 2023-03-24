@@ -61,7 +61,6 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 
 
-
 ![image](https://user-images.githubusercontent.com/90862957/227531052-729eac70-5842-4442-b794-245dedcd60ca.png)
 
 ![image](https://user-images.githubusercontent.com/90862957/227531468-cae20733-6c93-44b9-963a-4353f23c3bf7.png)
@@ -93,10 +92,10 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/226755528-6fee7918-0b4d-4986-a5eb-e652573b0fd3.png)
+![image](https://user-images.githubusercontent.com/90862957/227539087-3679aabb-74d2-4e68-853e-9bc50d8e741d.png)
 
 
-![image](https://user-images.githubusercontent.com/115881685/226755697-f74b276a-037b-4ac5-8c5c-e9079ea7d358.png)
+![image](https://user-images.githubusercontent.com/90862957/227539309-f1e73fe2-8715-4209-a158-3b4ad3f0f61a.png)
 - - -
 
 
