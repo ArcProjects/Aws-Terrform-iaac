@@ -49,6 +49,8 @@ The files contains reference templates that has notes which explains what each s
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
 
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
+![image](https://user-images.githubusercontent.com/90862957/227525045-b89eecce-71a3-4c2f-a945-66a58045c44e.png)
+
 - - -
 
 ### Create VPC with a vpc.tf file
