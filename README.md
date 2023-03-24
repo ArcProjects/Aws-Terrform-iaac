@@ -77,7 +77,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 ![3 _Nat_Gateway_Reference_Architecture](https://user-images.githubusercontent.com/115881685/226754428-bdd57e8a-4abc-47f6-9fb5-71f0709d7c4e.jpg)
 
-![image](https://user-images.githubusercontent.com/90862957/227535439-2a640cb6-6fd9-4db2-a510-35bae55c222f.png)
+![image](https://user-images.githubusercontent.com/90862957/227536397-7e9e5e29-92d7-4eea-9134-ae40b4459f6b.png)
 
 ![image](https://user-images.githubusercontent.com/90862957/227535221-96c45760-e4e7-4e1c-8a06-c2369c48de8f.png)
 
