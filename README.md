@@ -1,6 +1,12 @@
 # Aws-Terrform-IAAC
 ## Deploy a Website with Terraform
 
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
 ****
 
 <style>H1{color:Blue;}</style>
