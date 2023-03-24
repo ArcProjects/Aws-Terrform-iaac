@@ -102,14 +102,14 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 ### Create RDS with rds.tf file
 
-
-![image](https://user-images.githubusercontent.com/115881685/226756047-cfe8fbf0-2eeb-411c-a0ea-dd0fd18c93ba.png)
-
-
-![image](https://user-images.githubusercontent.com/115881685/226756136-9ac0c2b3-6ebd-48b6-836c-291c7d833abe.png)
+![image](https://user-images.githubusercontent.com/90862957/227547363-bcfe75eb-3185-43dc-94e4-30be317d60ab.png)
 
 
-![image](https://user-images.githubusercontent.com/115881685/226756269-62bae8b4-6af8-4ece-ba9d-6e7515202cdc.png)
+![image](https://user-images.githubusercontent.com/90862957/227547607-6a1bb62b-285a-4f09-b9bc-7105634da541.png)
+
+
+![image](https://user-images.githubusercontent.com/90862957/227547960-99a8e8e5-2320-43fe-952c-1e3f21083c83.png)
+
 - - -
 
 
