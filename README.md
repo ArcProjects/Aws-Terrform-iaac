@@ -1,8 +1,7 @@
 # Aws-Terrform-IAAC
 ## Deploy a Website with Terraform
 
-## Steps
-[Pointer](#newtopic)
+
 
 In this project i demonstrated how to use Terraform to deploy a dynamic ecommerce application on aws.
 Using the Reference Architecture below, i used terraform to create the following resources; VPC with public and private subnet, Nat gateway, Security group, RDS, Application load balancer, SNS, Auto Scaling Group and Route 53.
@@ -16,7 +15,13 @@ In addition to terraform, i also used DevOps tools like, Git, Github, Visual Stu
 
 After setting up my enviroment, i created all the files needed to create all the resourses in my project file in vscode. The files can be found in my code directory.
 
+## Steps
+
 The files contains reference templates that has notes which explains what each syntax in the file does, See Screenshots below of the Vscode project files and the corresponding resourses created in AWS.
+
+[ Authenticating with AWS with a "main.tf" file](# Authenticating with AWS with a "main.tf" file)
+[Create VPC with a vpc.tf filer](#Create VPC with a vpc.tf file)
+[ Create Nat-Gateway with a nat-gateway.tf file](#Create Nat-Gateway with a nat-gateway.tf file)
 
 ### Authenticating with AWS with a "main.tf" file
 
