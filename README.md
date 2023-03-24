@@ -56,7 +56,10 @@ Provide the login credentials for your account. Using this credentials the terrf
 ### Create VPC with a vpc.tf file
 
 
-![2 _VPC_Reference_Architecture](https://user-images.githubusercontent.com/115881685/226752425-4626d8e1-4376-4fb9-a853-8c4c8e3599f8.jpg)
+![2 _VPC_Reference_Architecture](https://user-images.githubusercontent.com/90862957/227527465-adf28d8e-1e8b-499a-bc8f-d114683c10c5.png)
+![VPC Steps](https://user-images.githubusercontent.com/90862957/227527656-3942fb27-e17d-4036-a4d5-31533c76f2fb.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/115881685/226753792-cc7d28d6-2346-47b8-9f40-a952048528e3.png)
