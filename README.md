@@ -129,11 +129,9 @@ Provide the login credentials for your account. Using this credentials the terrf
 ### Create SNS Topic with sns.tf file
 
 
-![image](https://user-images.githubusercontent.com/115881685/226757096-c06d3b0a-9b37-47bd-8c9e-92eeb6b28998.png)
+![image](https://user-images.githubusercontent.com/90862957/227552932-214ebcee-69f2-47aa-8ed9-5df36b2cfd1c.png)
 
-![image](https://user-images.githubusercontent.com/115881685/226757223-05bb3c26-eb8f-4cb5-a28e-5f4378e860dc.png)
+![image](https://user-images.githubusercontent.com/90862957/227553051-870e5583-db30-4ce0-b4f2-54faf472cd58.png)
 
-![image](https://user-images.githubusercontent.com/115881685/226757323-0ae54868-6935-4207-94c0-2d7603a6682f.png)
-
-![image](https://user-images.githubusercontent.com/115881685/226757414-ed0d8963-7895-43cd-828a-aa4417f3fcb7.png)
+![image](https://user-images.githubusercontent.com/90862957/227553198-02915c9e-101e-4512-9c4c-ce309f36a5d5.png)
 - - -
