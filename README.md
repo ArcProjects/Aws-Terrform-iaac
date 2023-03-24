@@ -23,7 +23,7 @@ The files contains reference templates that has notes which explains what each s
 
 [2.Create VPC with a vpc.tf filer](#Create-VPC-with-a-vpc.tf-file)
 
-[3.Create Nat-Gateway with a nat-gateway.tf file](# Create Nat-Gateway with a nat-gateway.tf file)
+[3.Create Nat-Gateway with a nat-gateway.tf file](#Create-Nat-Gateway-with-a-nat-gateway.tf-file)
 
 ### Authenticating with AWS with a "main.tf" file
 
