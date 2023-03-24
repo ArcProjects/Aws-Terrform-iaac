@@ -35,6 +35,8 @@ The files contains reference templates that has notes which explains what each s
 
 [8.create sns topic with snstf file](#create-sns-topic-with-snstf-file)
 
+=======================================================================================================================================================================
+
 ### Authenticating with AWS with a "main.tf" file
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
 
