@@ -18,7 +18,7 @@ The files contains reference templates that has notes which explains what each s
 
 - - -
 
-[1.Authenticating with AWS with a "main.tf" file](#authenticating-with-aws-with-a-maintf-file)
+[1.Authenticating with AWS ](#authenticating-with-aws-with-a-maintf-file)
 
 [2.Create VPC with a vpc.tf filer](https://github.com/ArcProjects/Aws-Terrform-iaac/blob/main/README.md#create-vpc-with-a-vpctf-file)
 
@@ -26,7 +26,7 @@ The files contains reference templates that has notes which explains what each s
 
 [4.create-security-group-with-security-grouptf-file](#create-security-group-with-security-grouptf-file)
 
-[5.Create RDS with rds.tf file](#Create-RDS-with-rdstf-file)
+[5.Create RDS](#Create-RDS-with-rdstf-file)
 
 [6.Create ALB](#create-application-load-balancer-with-albtf-file)
 
