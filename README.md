@@ -1,8 +1,10 @@
 
 # Aws-Terrform-IAAC
+![Terrafrom picture(https://user-images.githubusercontent.com/90862957/227426615-8b63b964-ae25-4a7e-821a-c24e320b3a64.png)
+
 ## Deploy a Website with Terraform
 
-<p style="color:blue">In this project i demonstrated how to use Terraform to deploy a dynamic ecommerce application on aws. Using the Reference Architecture below, i used terraform to create the following resources; VPC with public and private subnet, Nat gateway, Security group, RDS, Application load balancer, SNS, Auto Scaling Group and Route 53.In addition to terraform, i also used DevOps tools like, Git, Github, Visual Studio Code and AWS CLI to complete this project.</p>
+In this project i demonstrated how to use Terraform to deploy a dynamic ecommerce application on aws. Using the Reference Architecture below, i used terraform to create the following resources; VPC with public and private subnet, Nat gateway, Security group, RDS, Application load balancer, SNS, Auto Scaling Group and Route 53.In addition to terraform, i also used DevOps tools like, Git, Github, Visual Studio Code and AWS CLI to complete this project
 
 
 ****
