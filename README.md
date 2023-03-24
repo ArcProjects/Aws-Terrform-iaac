@@ -2,31 +2,15 @@
 # Aws-Terrform-IAAC
 ## Deploy a Website with Terraform
 In this project i demonstrated how to use Terraform to deploy a dynamic ecommerce application on aws. Using the Reference Architecture below, i used terraform to create the following resources; VPC with public and private subnet, Nat gateway, Security group, RDS,   -  Application load balancer, SNS, Auto Scaling Group and Route 53.
-
-
-
-
-****
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
-
-
-
-
-
-
-
 In addition to terraform, i also used DevOps tools like, Git, Github, Visual Studio Code and AWS CLI to complete this project.
 
+****
 ## Project Reference Architecture
 
 ![1 Terraform-Ecommerce](https://user-images.githubusercontent.com/115881685/226744267-a4bcf33e-7a56-4a9a-9a31-84ba2e6d0a60.jpg)
 
-
 After setting up my enviroment, i created all the files needed to create all the resourses in my project file in vscode. The files can be found in my code directory.
-
+****
 # Steps
 
 The files contains reference templates that has notes which explains what each syntax in the file does, See Screenshots below of the Vscode project files and the corresponding resourses created in AWS.
@@ -53,9 +37,9 @@ The files contains reference templates that has notes which explains what each s
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
 
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
+- - -
 
-
-<font color="green"> ### Create VPC with a vpc.tf file </font>
+### Create VPC with a vpc.tf file
 
 
 ![2 _VPC_Reference_Architecture](https://user-images.githubusercontent.com/115881685/226752425-4626d8e1-4376-4fb9-a853-8c4c8e3599f8.jpg)
@@ -68,7 +52,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 ![image](https://user-images.githubusercontent.com/115881685/226752933-c9b8b592-0fd4-4314-a9e9-eab60a240723.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/226753336-c837ca8c-cf72-428d-81a4-ab7a924a1aea.png)
-
+- - -
 
 
 
@@ -83,7 +67,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 ![image](https://user-images.githubusercontent.com/115881685/226754799-7f0701d0-2649-4778-bbf6-0836a54807c0.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/226754991-9a517d82-92c3-4307-a8d5-42e7e3166980.png)
-
+- - -
 
 
 
@@ -95,7 +79,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 
 ![image](https://user-images.githubusercontent.com/115881685/226755697-f74b276a-037b-4ac5-8c5c-e9079ea7d358.png)
-
+- - -
 
 
 
@@ -109,12 +93,11 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 
 ![image](https://user-images.githubusercontent.com/115881685/226756269-62bae8b4-6af8-4ece-ba9d-6e7515202cdc.png)
-
+- - -
 
 
 
 ### Create Application Load Balancer with alb.tf file
-
 
 
 ![image](https://user-images.githubusercontent.com/115881685/226756595-69809979-a259-4a67-926d-17b2131d7bfe.png)
@@ -122,7 +105,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 ![image](https://user-images.githubusercontent.com/115881685/226756715-de9cfad4-5c93-4a83-917d-f0b6b7448855.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/226756807-897aa736-67eb-4c44-9313-0b393001e0ce.png)
-
+- - -
 
 
 
@@ -131,9 +114,9 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 ![image](https://user-images.githubusercontent.com/115881685/226757096-c06d3b0a-9b37-47bd-8c9e-92eeb6b28998.png)
 
-
 ![image](https://user-images.githubusercontent.com/115881685/226757223-05bb3c26-eb8f-4cb5-a28e-5f4378e860dc.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/226757323-0ae54868-6935-4207-94c0-2d7603a6682f.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/226757414-ed0d8963-7895-43cd-828a-aa4417f3fcb7.png)
+- - -
