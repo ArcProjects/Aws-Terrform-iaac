@@ -31,6 +31,10 @@ The files contains reference templates that has notes which explains what each s
 
 [5.Create RDS with rds.tf file](#Create-RDS-with-rdstf-file)
 
+[6.Create ALB](#create-application-load-balancer-with-albtf-file)
+
+[8.create sns topic with snstf file](#create-sns-topic-with-snstf-file)
+
 ### Authenticating with AWS with a "main.tf" file
 
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
