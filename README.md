@@ -35,7 +35,6 @@ The files contains reference templates that has notes which explains what each s
 
 [8.create sns topic with snstf file](#create-sns-topic-with-snstf-file)
 
-=======================================================================================================================================================================
 
 ### Authenticating with AWS with a "main.tf" file
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
@@ -43,7 +42,7 @@ Provide the login credentials for your account. Using this credentials the terrf
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
 
 
-### Create VPC with a vpc.tf file
+<font color="green"> ### Create VPC with a vpc.tf file </font>
 
 
 ![2 _VPC_Reference_Architecture](https://user-images.githubusercontent.com/115881685/226752425-4626d8e1-4376-4fb9-a853-8c4c8e3599f8.jpg)
