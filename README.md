@@ -77,13 +77,14 @@ Provide the login credentials for your account. Using this credentials the terrf
 
 ![3 _Nat_Gateway_Reference_Architecture](https://user-images.githubusercontent.com/115881685/226754428-bdd57e8a-4abc-47f6-9fb5-71f0709d7c4e.jpg)
 
-![image](https://user-images.githubusercontent.com/115881685/226754555-5b3c56f8-93d1-41f2-aff2-d6e319e5b240.png)
+![image](https://user-images.githubusercontent.com/90862957/227535439-2a640cb6-6fd9-4db2-a510-35bae55c222f.png)
 
-![image](https://user-images.githubusercontent.com/115881685/226754642-43ad3478-31ae-4873-84f9-8050c23c80c7.png)
+![image](https://user-images.githubusercontent.com/90862957/227535221-96c45760-e4e7-4e1c-8a06-c2369c48de8f.png)
 
-![image](https://user-images.githubusercontent.com/115881685/226754799-7f0701d0-2649-4778-bbf6-0836a54807c0.png)
+![image](https://user-images.githubusercontent.com/90862957/227535686-c022481e-f9ea-4af8-be87-645bc90c3090.png)
 
-![image](https://user-images.githubusercontent.com/115881685/226754991-9a517d82-92c3-4307-a8d5-42e7e3166980.png)
+![image](https://user-images.githubusercontent.com/90862957/227535792-b81bf3d2-0984-4abb-b731-7ea2ae2b9181.png)
+
 - - -
 
 
