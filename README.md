@@ -17,7 +17,6 @@ In this project i demonstrated how to use Terraform to deploy a dynamic ecommerc
 ****
 ## Project Reference Architecture
 
-/*![](https://user-images.githubusercontent.com/115881685/226744267-a4bcf33e-7a56-4a9a-9a31-84ba2e6d0a60.jpg)*/
 ![Architecture](https://user-images.githubusercontent.com/90862957/227430090-a4960b88-f0d3-417e-b611-13fefdc35651.png)
 
 
