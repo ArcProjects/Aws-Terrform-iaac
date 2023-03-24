@@ -1,6 +1,8 @@
 
 <font color="red"># Aws-Terrform-IAAC</font>
 <h1><font color="red">Heading level 1</font></h1>
+
+<span style="color: red;">text</span>
 ## Deploy a Website with Terraform
 
 <p style="color:blue">In this project i demonstrated how to use Terraform to deploy a dynamic ecommerce application on aws. Using the Reference Architecture below, i used terraform to create the following resources; VPC with public and private subnet, Nat gateway, Security group, RDS, Application load balancer, SNS, Auto Scaling Group and Route 53.In addition to terraform, i also used DevOps tools like, Git, Github, Visual Studio Code and AWS CLI to complete this project.</p>
