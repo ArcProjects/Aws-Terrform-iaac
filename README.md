@@ -1,7 +1,7 @@
 # Aws-Terrform-IAAC
 ## Deploy a Website with Terraform
 
-- - -
+
 
 <style>H1{color:Blue;}</style>
 <style>H2{color:DarkOrange;}</style>
@@ -27,7 +27,7 @@ After setting up my enviroment, i created all the files needed to create all the
 
 The files contains reference templates that has notes which explains what each syntax in the file does, See Screenshots below of the Vscode project files and the corresponding resourses created in AWS.
 
-
+- - -
 
 [1.Authenticating with AWS with a "main.tf" file](#authenticating-with-aws-with-a-maintf-file)
 
@@ -43,8 +43,9 @@ The files contains reference templates that has notes which explains what each s
 
 [8.create sns topic with snstf file](#create-sns-topic-with-snstf-file)
 
+- - -
 
-- ![#f03c15](### Authenticating with AWS with a "main.tf" file)`#f03c15`
+### Authenticating with AWS with a "main.tf" file
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
 
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
