@@ -25,9 +25,9 @@ The files contains reference templates that has notes which explains what each s
 
 [2.Create VPC with a vpc.tf filer](https://github.com/ArcProjects/Aws-Terrform-iaac/blob/main/README.md#create-vpc-with-a-vpctf-file)
 
-[rrr](#create-vpc-with-a-vpctf-file)
 
-[3.Create Nat-Gateway with a nat-gateway.tf file](#Create-Nat-Gateway-with-a-nat-gateway.tf-file)
+
+[3.create-security-group-with-security-grouptf-file](#create-security-group-with-security-grouptf-file)
 
 ### Authenticating with AWS with a "main.tf" file
 
