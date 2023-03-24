@@ -5,7 +5,7 @@
 ### [For more info click here](https://blog.awsfundamentals.com/what-is-terraform)
 
 ```diff
-- credits 
+- credits Tobias Schmidt 
 ```
 
 
