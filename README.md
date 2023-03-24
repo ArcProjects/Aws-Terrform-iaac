@@ -4,7 +4,7 @@
 ```diff
 - credits 
 ```
-|[awsfundamentals.com](https://blog.awsfundamentals.com/what-is-terraform)|
+| Link | [awsfundamentals.com](https://blog.awsfundamentals.com/what-is-terraform)|
 
 ## Deploy a Website with Terraform
 
