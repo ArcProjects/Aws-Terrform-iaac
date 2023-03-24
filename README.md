@@ -23,6 +23,7 @@ In this project i demonstrated how to use Terraform to deploy a dynamic ecommerc
 After setting up my enviroment, i created all the files needed to create all the resourses in my project file in vscode. The files can be found in my code directory.
 ****
 # Steps
+![Stepwise](https://user-images.githubusercontent.com/90862957/227430645-6299cec0-4a2d-491c-93c3-775fe27bab7a.png)
 
 The files contains reference templates that has notes which explains what each syntax in the file does, See Screenshots below of the Vscode project files and the corresponding resourses created in AWS.
 
