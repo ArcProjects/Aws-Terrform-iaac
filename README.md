@@ -48,7 +48,7 @@ The files contains reference templates that has notes which explains what each s
 ### Authenticating with AWS with a "main.tf" file
 Provide the login credentials for your account. Using this credentials the terrform will authenticate with AWS.
 
-![main.tf](https://user-images.githubusercontent.com/90862957/227526362-a50fc317-91a3-480d-9dcc-f6e1a6f9c227.png)
+![main.tf](https://user-images.githubusercontent.com/90862957/227527109-b49b570c-438e-44b9-ada1-1684be450234.png)
 
 
 - - -
