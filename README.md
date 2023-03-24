@@ -1,6 +1,9 @@
 
 # Aws-Terrform-IAAC
 ![Terrafrom picture](https://user-images.githubusercontent.com/90862957/227426615-8b63b964-ae25-4a7e-821a-c24e320b3a64.png)
+```diff
+- credits https://blog.awsfundamentals.com/what-is-terraform
+```
 
 ## Deploy a Website with Terraform
 
