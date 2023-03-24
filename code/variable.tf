@@ -82,7 +82,7 @@ variable "ssl_certificate_arn" {
 
 # sns topic variables
 variable "operator_email" {
-    default     = "georgenal5801@gmail.com"
+    default     = "msazops@gmail.com"
     description = "a valid email address"
     type        = string
 }
@@ -114,7 +114,7 @@ variable "ec2_key_pair_name" {
 
 # route 53 variables
 variable "domain_name" {
-    default     = "georgenal.xyz"
+    default     = "awsterr.xyz"
     description = "domain name"
     type        = string
 }
@@ -124,3 +124,4 @@ variable "record_name" {
     description = "sub domain name"
     type        = string
 }
+

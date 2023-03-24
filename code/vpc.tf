@@ -1,4 +1,4 @@
- # create vpc
+# create vpc for demo appliacation
 # terraform aws create vpc
 resource "aws_vpc" "vpc" {
   cidr_block              = var.vpc_cidr
@@ -6,7 +6,7 @@ resource "aws_vpc" "vpc" {
   enable_dns_hostnames    = true
 
   tags      = {
-    Name    = "dev vpc"
+    Name    = "development vpc"
   }
 }
 
