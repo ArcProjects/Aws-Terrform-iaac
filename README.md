@@ -29,6 +29,8 @@ The files contains reference templates that has notes which explains what each s
 
 [4.create-security-group-with-security-grouptf-file](#create-security-group-with-security-grouptf-file)
 
+[5.Create RDS with rds.tf file](#Create-RDS-with-rdstf-file)
+
 ### Authenticating with AWS with a "main.tf" file
 
 ![image](https://user-images.githubusercontent.com/115881685/226753946-3b2ebff3-6ebb-4129-a753-2fbb07337bd3.png)
