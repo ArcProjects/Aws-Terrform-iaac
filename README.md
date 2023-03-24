@@ -21,7 +21,7 @@ The files contains reference templates that has notes which explains what each s
 
 
 
-[1.Authenticating with AWS with a "main.tf" file]([###"Authenticating with AWS with a "main.tf" file"](https://github.com/ArcProjects/Aws-Terrform-iaac/blob/main/README.md#authenticating-with-aws-with-a-maintf-file))
+[1.Authenticating with AWS with a "main.tf" file](https://github.com/ArcProjects/Aws-Terrform-iaac/blob/main/README.md#authenticating-with-aws-with-a-maintf-file)
 
 [2.Create VPC with a vpc.tf filer](#Create-VPC-with-a-vpc.tf-file)
 
